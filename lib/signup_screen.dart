@@ -10,7 +10,7 @@ import 'package:voice/utils/color_utils.dart';
 class SignUpScreen extends StatefulWidget {
   @override
   _SignUpState createState() => _SignUpState();
-}
+}echo "# Sheikh_Russel_Hall_Complaint_Management_App" >> README.md
 
 class _SignUpState extends State<SignUpScreen> {
   _SignUpState();

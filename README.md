@@ -54,7 +54,8 @@ flutter run
 
 ## Contributors
 
-- Md Mushfikur Rahman (Developer)
+- Md Mushfikur Rahman (Team Lead)
+- Pranta Sarkar
 
 ## License
 

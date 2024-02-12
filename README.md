@@ -1,5 +1,3 @@
-**README.md**
-
 # Sheikh Russel Hall Complaint Management App
 
 The Sheikh Russel Hall Complaint Management App is a Flutter application developed for Sheikh Russel Hall, allowing students and teachers to submit and manage complaints related to hall facilities. The app provides a convenient platform for users to report issues to the hall authority, such as maintenance problems, infrastructure issues, or any other concerns.
